@@ -1,0 +1,15 @@
+{
+  "name": "asp.net",
+  "dependencies": {},
+  "globalDependencies": {
+    "angular": "github:DefinitelyTyped/DefinitelyTyped/angularjs/angular.d.ts#d1c9da62053609b84f5052bbeaf2bf15ff240c70",
+    "angular-translate": "github:DefinitelyTyped/DefinitelyTyped/angular-translate/angular-translate.d.ts#2abd80bc0108d398826aba6fcc2a1dad8ed22184",
+    "angular-ui-router": "registry:dt/angular-ui-router#1.1.5+20160707113237",
+    "cordova": "github:DefinitelyTyped/DefinitelyTyped/cordova/cordova.d.ts#37ae2de2a11eac6fc4584ea0b79b142f64f9874e",
+    "cordova-ionic": "github:DefinitelyTyped/DefinitelyTyped/cordova-ionic/cordova-ionic.d.ts#7de6c3dd94feaeb21f20054b9f30d5dabc5efabd",
+    "cordova-ionic-keyboard": "github:DefinitelyTyped/DefinitelyTyped/cordova-ionic/plugins/keyboard.d.ts#7de6c3dd94feaeb21f20054b9f30d5dabc5efabd",
+    "cordova-statusbar": "github:DefinitelyTyped/DefinitelyTyped/cordova/plugins/StatusBar.d.ts#57fdaeeec3e49a60b41c9743b788adb108e9953b",
+    "ionic": "github:DefinitelyTyped/DefinitelyTyped/ionic/ionic.d.ts#28cd028ab871a770027b35e0e14bd8c7005eca21",
+    "jquery": "github:DefinitelyTyped/DefinitelyTyped/jquery/jquery.d.ts#57ea2cfab1110977f64dd89a383fb8b99c41aeac"
+  }
+}

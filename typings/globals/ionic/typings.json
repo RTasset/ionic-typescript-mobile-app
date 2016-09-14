@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/28cd028ab871a770027b35e0e14bd8c7005eca21/ionic/ionic.d.ts",
+    "raw": "github:DefinitelyTyped/DefinitelyTyped/ionic/ionic.d.ts#28cd028ab871a770027b35e0e14bd8c7005eca21",
+    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/28cd028ab871a770027b35e0e14bd8c7005eca21/ionic/ionic.d.ts"
+  }
+}

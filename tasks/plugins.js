@@ -1,0 +1,17 @@
+﻿module.exports = {
+    gulp: require('gulp'),
+    gutil: require('gulp-util'),
+    del: require('del'),
+    sequence: require('run-sequence'),
+    ts: require('gulp-typescript'),
+    concat: require('gulp-concat'),
+    sourcemaps: require('gulp-sourcemaps'),
+    through:require('through2'),
+    sass: require('gulp-sass'),
+    minifyCss: require('gulp-minify-css'),
+    rename: require('gulp-rename'),
+    sh: require('shelljs'),
+    ngAnnotate: require('gulp-ng-annotate'),
+    autoprefixer: require('gulp-autoprefixer'),
+    templateCache: require('gulp-angular-templatecache'),
+};
